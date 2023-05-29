@@ -1,0 +1,158 @@
+.top{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+.downbtn{
+    margin: 5% 3% 20% 0;
+}
+#cf{
+    padding: 3% 10%;
+}
+.img1{
+    width: 370px;
+    transform: rotate(25deg);
+    padding-left: 70px;
+    padding-bottom: 10px;
+    position: absolute;
+    right: 50px;
+}
+.f-box{
+    text-align: center;
+    padding: 6%;
+}
+.ic{
+    color: #3bb78f;
+    margin-bottom: 1.5rem;
+}
+.ic:hover{
+    color: #3b8d73;
+    cursor: pointer;
+}
+#features {
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+}
+#features h3{
+    font-family: 'Montserrat', sans-serif;
+}
+#features p{
+    color: #8f8f8f;
+}
+#title{
+    background-image: linear-gradient(315deg, #3bb78f 0%, #0bab64 74%);
+    color: #fff;
+    
+}
+#navbarSupportedContent a{
+    margin-right: 25px;
+}
+#logo{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+#navid{
+    padding-left: 0;
+    padding-bottom: 4.5rem;
+}
+#testimonials{
+    
+    text-align: center;
+    background-color: #a4508b;
+    background-image: linear-gradient(326deg, #a4508b 0%, #8b1fbd 74%);
+    color: #fff;
+    margin-bottom: 500px;
+}
+#testimonials h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.me{
+    border-radius: 50%;
+    width: 120px;
+    margin: 20px;
+}
+
+.logos1{
+    width: 145px;
+    margin: 20px 20px 0px;
+    padding-bottom: 50px;
+}
+.logos2{
+    width: 210px;
+    margin: 20px 20px 0px;
+    padding-bottom: 50px;
+}
+.logos3{
+    width: 110px;
+    margin: 20px 20px 0px;
+    padding-bottom: 50px;
+}
+.carousel-item{
+    padding: 3% 15% 4%; 
+}
+
+#pricing{
+    padding: 100px;
+    text-align: center;
+    padding-top: 150px;
+}
+
+#pricing h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+#pricing h3{
+    font-family: 'Montserrat', sans-serif;
+}
+.p-col{
+    padding: 3% 2%;
+    margin: auto;
+}
+#cta h3{
+    font-family: 'Montserrat', sans-serif;
+}
+#cta{
+    background-image: linear-gradient(to right top, #051937, #00456e, #00778f, #00a88e, #52d66f);
+    color: #fff;
+    padding: 7% 15%;
+    text-align: center;
+}
+.cta-heading{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+.downbtn2{
+    margin: 5% 1%;
+}
+#footer{
+    padding: 7% 15% 2% 15%;
+    text-align: center;
+    padding-top: 0;
+}
+.s-icons{
+    padding: 20px 10px;
+    cursor: pointer;
+}
+#footer a{
+	text-decoration: none;
+	color: #000000
+}
+#icon-fb:hover{
+    color:#405DE6;
+}
+#icon-insta:hover{
+    color: #E1306C;
+}
+#icon-mail:hover{
+    color: #FD1D1D;
+}
+.logo2{
+    width: 200px;
+}

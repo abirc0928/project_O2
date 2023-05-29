@@ -1,0 +1,23 @@
+.blog{
+    padding: 3% 10% 5% 10%;
+    
+}
+.header1 h1{
+    font-size: 4rem;
+    font-family: 'Montserrat', sans-serif;
+    color: #42B071;
+    padding-bottom: 5px;
+}
+.header2{
+    font-family: 'Dosis', sans-serif;
+    padding-bottom: 20px;
+}
+.txt{
+    padding: 2% 5% 2% 5%;
+    font-size: 2rem;
+    font-family: 'Dosis', sans-serif;
+    text-align: justify;
+    background-color: #ddfada;
+    border-radius: 25px;
+    color: rgb(85, 85, 85);
+}

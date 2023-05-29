@@ -1,0 +1,58 @@
+#footer{
+    padding: 7% 15% 2% 15%;
+    text-align: center;
+}
+.s-icons{
+    padding: 20px 10px;
+    cursor: pointer;
+}
+#footer a{
+	text-decoration: none;
+	color: #000000
+}
+#icon-fb:hover{
+    color:#405DE6;
+}
+#icon-insta:hover{
+    color: #E1306C;
+}
+#icon-mail:hover{
+    color: #FD1D1D;
+}
+
+#cta h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #42B071;
+}
+#cta{
+    background-color: #fff;
+    padding: 3% 15%;
+    padding-bottom: 0;
+    
+}
+.cta-heading{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    text-align: center;
+}
+
+#cf{
+    padding-right: 0;
+    padding-left: 0;
+}
+
+#navbarSupportedContent a{
+    margin-left: 25px;
+    color: #42B071;
+}
+#navbarSupportedContent a:hover{
+    margin-left: 25px;
+    color: #40855e;
+}
+.logo{
+    width: 150px;
+    margin-right: 60px;
+    margin-left: 30px;
+    padding-top: 3px; 
+}
