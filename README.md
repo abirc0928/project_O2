@@ -8,8 +8,8 @@ Our project aims to sell plants, pots, pests, T-shirts merch regarding awareness
 * API: tawk.to as a live chat software
 
 ## Developed By
-* Jubayer Hossen  
-* Email: `jhossen191254@bscse.uiu.ac.bd`  
+* Abir Chowdhury 
+* Email: `abirchowdhury0928@gmail.com`
 * BSc in Computer Science and Engineering  
 * United International University
 
